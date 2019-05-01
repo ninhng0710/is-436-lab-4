@@ -1,0 +1,194 @@
+
+body{
+	border: 5px;
+	border-color: black;
+	background-color: #ccccb3;
+}
+
+.blackBackground{
+	background-color: black;
+	text-align: right;
+	font-size: 19px;
+	margin-top: -10px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.blackBackground input[type=text] {
+	padding: 6px;
+	border: none;
+	margin-top: 8px;
+	margin-right: 16px;
+	margin-bottom: 8px;
+	font-size: 17px;
+}
+
+.blackBackground a.active {
+	background-color: #2196F3;
+	color: white;
+}
+
+.yellowLink {
+	color: #ffb31a;
+	text-decoration: none;
+}
+
+.whiteBackground {
+	background-color: white;
+	margin-top: -15px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.blackLink {
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+}
+
+h2 {
+	margin-top: -25px;
+	margin-left: 15px;
+}
+
+.programsHeading {
+	border: 1px;
+	border-color: black;
+	border-style: solid;
+	color: #ffb31a;
+	float: left;
+	padding-left: 15px;
+	padding-right: 54px;
+	margin-top: -20px;
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: black;
+}
+
+.programs {
+	border: 1px;
+	border-color: black;
+	border-style: solid;
+	color: black;
+	float: left;
+	padding-top: 15px;
+	padding-bottom: 1140px;
+	padding-left: 15px;
+	padding-right: 1px;
+	margin-top: -15px;
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: #ffff99;
+}
+
+.selected{
+	background-color: black;
+	border-color: #ffff00;
+	border-style: solid;
+	border-bottom-width: 5px;
+	color: white;
+	padding: 15px;
+	margin-left: -15px;
+	margin-right: -2px;
+}
+
+.content {
+	position: absolute;
+	top: 200px;
+	left: 375px;
+	background-color: white;
+	padding-right: 200px;
+	padding-bottom: 13px;
+}
+
+.tree {
+	position: absolute;
+	top: 180px;
+	left: 1107px;
+}
+
+.isList {
+	position: absolute;
+	top: 475px;
+	left: 375px;
+	background-color: white;
+	text-align: left;
+}
+
+.mathList {
+	position: absolute;
+	top: 475px;
+	left: 724px;
+	background-color: white;
+	text-align: left;
+}
+
+.adminScienceList {
+	position: absolute;
+	top: 475px;
+	left: 1145px;
+	background-color: white;
+	text-align: left;
+	padding-right: 15px;
+	padding-bottom: 36px;
+}
+
+.notes{
+	position: absolute;
+	top: 698px;
+	left: 375px;
+	background-color: white;
+	padding-right: 56px;
+}
+
+.chart {
+	position: absolute;
+	top: 1190px;
+	left: 375px;
+	background-color: white;
+	padding-left: 250px;
+	padding-right: 178px;
+}
+
+.bottom{
+	background-color: black;
+	color: white;
+	position: absolute;
+	top: 1740px;
+	left: 38px;
+	padding-right: 1166px;
+}
+
+.info{
+	color:white;
+	font-size: 30px;
+	position: absolute;
+	top: 1763px;
+	left: 500px;
+	text-decoration: underline;
+}
+
+.contact{
+	color:white;
+	font-size: 30px;
+	position: absolute;
+	top: 1763px;
+	left: 800px;
+	text-decoration: underline;
+}
+
+.bottomText{
+	color: white;
+	position: absolute;
+	top: 1803px;
+	left: 800px;
+}
+
+.equal {
+	color:white;
+	font-size: 30px;
+	position: absolute;
+	top: 1763px;
+	left: 1100px;
+	text-decoration: underline;
+}
